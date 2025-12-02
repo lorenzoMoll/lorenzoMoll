@@ -11,7 +11,7 @@ Soy un **programador junior** apasionado por aprender y crecer en el mundo del d
   
 ### 🌱 Objetivos de aprendizaje
 En este momento, quiero seguir creciendo en:
-- **Backend**: profundizar en Larave y aprendermas sobre arquitectura y buenas prácticas de Node.js.
+- **Backend**: profundizar en Laravel y aprendermas sobre arquitectura y buenas prácticas de Node.js.
 - **Frontend**: mejorar en React y aprender más sobre optimización de rendimiento y buenas prácticas de desarrollo.
 - **Otros**: aprender sobre patrones de diseño y herramientas de CI/CD para mejorar mi flujo de trabajo.
 
