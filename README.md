@@ -18,9 +18,9 @@ En este momento, quiero seguir creciendo en:
 ### Proyectos destacados
 Aquí algunos de los proyectos en los que he trabajado o que he compartido en GitHub:
 
-- [SyncBlend](enlace a proyecto) - Plataforma web para institutos que genera perfiles psicológicos de los estudiantes y forma grupos de clase diversos, optimizando la dinámica educativa.
-- [HolaBarri](enlace a proyecto) - Aplicación que centraliza tiendas locales, permite comprar en línea y recibir productos en casa, y ofrece a los comercios herramientas para gestionar inventario y fidelizar clientes.
-- [CinemaHub](enlace a proyecto) - Plataforma de gestión y reserva de entradas de cine, con CRUD para administración de películas, fechas y horarios, desarrollada íntegramente con Nuxt y Laravel.
+- [SyncBlend] - Plataforma web para institutos que genera perfiles psicológicos de los estudiantes y forma grupos de clase diversos, optimizando la dinámica educativa.
+- [HolaBarri] - Aplicación que centraliza tiendas locales, permite comprar en línea y recibir productos en casa, y ofrece a los comercios herramientas para gestionar inventario y fidelizar clientes.
+- [CinemaHub] - Plataforma de gestión y reserva de entradas de cine, con CRUD para administración de películas, fechas y horarios, desarrollada íntegramente con Nuxt y Laravel.
 
 ### 💬 Cómo contactarme
 <!-- - **LinkedIn**: [Tu Perfil de LinkedIn](enlace a tu LinkedIn) -->
