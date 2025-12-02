@@ -5,14 +5,14 @@ Soy un **programador junior** apasionado por aprender y crecer en el mundo del d
 
 ### 🔭 Tecnologías y herramientas con las que he trabajado:
 - **Lenguajes**: JavaScript (JS), PHP, Java, C
-- **Frameworks y Librerías**: Laravel, Vue.js, React
+- **Frameworks y Librerías**: Laravel, Vue.js, React, Node.js
 - **Frontend**: HTML, CSS
 - **Bases de Datos**: MySQL, MongoDB
   
 ### 🌱 Objetivos de aprendizaje
 En este momento, quiero seguir creciendo en:
-- **Backend**: profundizar en PHP y aprender sobre arquitectura y buenas prácticas de Laravel.
-- **Frontend**: mejorar en Vue.js y explorar otros frameworks como React.
+- **Backend**: profundizar en Larave y aprendermas sobre arquitectura y buenas prácticas de Node.js.
+- **Frontend**: mejorar en React y aprender más sobre optimización de rendimiento y buenas prácticas de desarrollo.
 - **Otros**: aprender sobre patrones de diseño y herramientas de CI/CD para mejorar mi flujo de trabajo.
 
 ### Proyectos destacados
@@ -24,7 +24,7 @@ Aquí algunos de los proyectos en los que he trabajado o que he compartido en Gi
 
 ### 💬 Cómo contactarme
 <!-- - **LinkedIn**: [Tu Perfil de LinkedIn](enlace a tu LinkedIn) -->
-- **Correo electrónico**: a23lormolang@inspedralbes.cat
+- **Correo electrónico**: llorensmoll89@gmail.com
 
 ### ⚡ Últimos datos
 Soy un entusiasta de la tecnología y siempre estoy abierto a colaborar en proyectos interesantes. ¡No dudes en contactarme si quieres trabajar juntos o tienes alguna recomendación!
